@@ -2,6 +2,12 @@
 
 This is the frontend application for the Campus Manager, built with React and Redux.
 
+
+## Group Members
+
+Daryl Hou
+
+
 ## Setup
 
 1. Install dependencies:
